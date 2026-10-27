@@ -12,4 +12,6 @@ void main() {
         nextNumber = pivot;
 
     }
+
+    sc.close();
 }
